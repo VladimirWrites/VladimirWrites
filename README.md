@@ -11,7 +11,7 @@
 </p>
 
 
-<img align='right' src='https://octodex.github.com/images/dinotocat.png' width='250"'>
+<img align='right' src='https://i.imgur.com/jjtmcSP.png' width='250"'>
 
 
 <p>
