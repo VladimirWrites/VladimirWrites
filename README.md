@@ -22,6 +22,6 @@
 
 <p>
   <a>
-    <img align="center" alt="VladimirWrites's github stats" src="https://github-readme-stats.vercel.app/api?username=VladimirWrites&show_icons=true&hide_border=true&hide=contribs" />
+    <img align="center" alt="VladimirWrites's github stats" src="https://github-readme-stats.vercel.app/api?username=VladimirWrites&show_icons=true&hide_border=true&hide=contribs&theme=onedark" />
   </a>
 </p>
