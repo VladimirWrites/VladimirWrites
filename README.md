@@ -19,9 +19,3 @@
     My name is Vladimir Jovanović and I am an Android Developer <img src="https://emojis.slackmojis.com/emojis/images/1519294713/3574/android.png?1519294713" width="20"/> and a Pluralsight author 🎙️ from Berlin, Germany.
   </samp>
 </p>
-
-<p>
-  <a>
-    <img align="center" alt="VladimirWrites's github stats" src="https://github-readme-stats.vercel.app/api?username=VladimirWrites&show_icons=true&hide_border=true&hide=contribs&theme=onedark" />
-  </a>
-</p>
